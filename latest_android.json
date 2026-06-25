@@ -1,9 +1,9 @@
 {
-  "versionCode": 10602,
-  "versionName": "1.6.2",
-  "url": "https://github.com/joseph-solier/onsorga_releases/releases/download/v1.6.2/Onsorga-Android.apk",
-  "sha256": "5dde72cc0183c5dc89d2a5e516a7843a1e169f81e566990348abf04f92ebdeb1",
+  "versionCode": 10603,
+  "versionName": "1.6.3",
+  "url": "https://github.com/joseph-solier/onsorga_releases/releases/download/v1.6.3/Onsorga-Android.apk",
+  "sha256": "0fa6bc16d7708443705b7a630498110636000bae341568da8803774c8c170ef0",
   "minVersionCode": 0,
-  "notes": "Canal Android self-host : updater in-app activé.",
+  "notes": "Test de la mise à jour in-app (canal self-host).",
   "published_at": "2026-06-25"
 }
