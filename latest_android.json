@@ -1,9 +1,9 @@
 {
-  "versionCode": 10603,
-  "versionName": "1.6.3",
-  "url": "https://github.com/joseph-solier/onsorga_releases/releases/download/v1.6.3/Onsorga-Android.apk",
-  "sha256": "0fa6bc16d7708443705b7a630498110636000bae341568da8803774c8c170ef0",
+  "versionCode": 10604,
+  "versionName": "1.6.4",
+  "url": "https://github.com/joseph-solier/onsorga_releases/releases/download/v1.6.4/Onsorga-Android.apk",
+  "sha256": "db022196cc2eba585f709c9f781d1828dca7ef23a825a9a6f4745aae136dbe94",
   "minVersionCode": 0,
-  "notes": "Test de la mise à jour in-app (canal self-host).",
+  "notes": "Correctif affichage Android (Xiaomi/MIUI) + edge-to-edge.",
   "published_at": "2026-06-25"
 }
